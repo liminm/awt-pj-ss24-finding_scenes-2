@@ -1,5 +1,5 @@
 
-# Finding Scenes in Learning Videos
+# Finding Scenes in Learning Videos - Fork of Original Repo
 
 ## Overview
 
@@ -160,23 +160,20 @@ To assess the pipeline's accuracy, a manually annotated dataset containing capti
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/vDawgg/awt-pj-ss24-finding_scenes-2/blob/main/LICENSE).
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
 Special thanks to the following open-source tools and libraries used in this project:
 
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [YT-DLP](https://github.com/yt-dlp/yt-dlp)
-- [Pytubefix](https://github.com/user/pytubefix)
-- [PySceneDetect](https://github.com/Breakthrough/PySceneDetect)
-- [Katna](https://github.com/user/katna)
-- [Idefics2-8B](https://github.com/user/idefics2-8b)
-- [Mistral-7B-Instruct-v0.3](https://github.com/user/mistral-7b-instruct)
+- FastAPI
+- YT-DLP
+- Pytubefix
+- PySceneDetect
+- Katna
+- Idefics2-8B
+- Mistral-7B-Instruct-v0.3
 
-## Contact
-
-For any inquiries or support, please open an issue on the [GitHub repository](https://github.com/vDawgg/awt-pj-ss24-finding_scenes-2).
 
 ## Citation
 
