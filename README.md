@@ -1,9 +1,10 @@
 
-# Finding Scenes in Learning Videos - Fork of Original Repo
-
+# Finding Scenes in Learning Videos
 ## Overview
 
 **Finding Scenes in Learning Videos** is a project that enhances the searchability and usability of educational videos by automatically generating detailed and structured metadata. Leveraging state-of-the-art Vision Language Models (VLMs) and Large Language Models (LLMs), the pipeline extracts both visual and auditory content from YouTube videos, enabling users to search for specific scenes based on comprehensive information about the video content. This pipeline is particularly useful for educators, students, and content creators looking to streamline the process of finding specific information within long-format video content.
+
+This repo is a fork of the original repository in cooperation with the Fraunhofer Institute.
 
 ## Features
 
